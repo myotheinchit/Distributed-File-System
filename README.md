@@ -5,6 +5,13 @@ torrent like distributed file storage system across multiple machines
 
 Mid-term project for CST-8114
 
+project team members    [Myo Thein Chit](https://github.com/myotheinchit)
+                        [Htet Arkar Oo](https://github.com/10D0U)
+                        [Khine Zin Nyunt](https://github.com/KhineZinNyunt)
+                        [Paing Zay Khant](https://github.com/PaingZayK)
+                        [Yell Swann Yee](https://github.com/yellswannyee)
+                        [May Shun Lae Naing](https://github.com/mayshunlaenaing)
+
 A distributed peer-to-peer (P2P) file sharing system implemented in Python. This project enables multiple clients (peers) and a central server (tracker) to share files efficiently and securely. The system emphasizes scalability and optimized file distribution.
 
 ---
