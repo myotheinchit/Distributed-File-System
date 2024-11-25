@@ -62,9 +62,8 @@ A distributed peer-to-peer (P2P) file sharing system implemented in Python. This
 
 ### Prerequisites
 
-- Python 3.8 or higher
-- Dependencies listed in `requirements.txt`
-- No requiremet.txt file is provided as the only package u need to install is CustomTkinter CTK , the rest is built in packages for python 
+- Python 3.8 or higher 
+- No `requirements.txt` file is provided as the only package u need to install is CustomTkinter CTK , the rest is built in packages for python 
 
 ### Installation
 
