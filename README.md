@@ -76,5 +76,5 @@ A distributed peer-to-peer (P2P) file sharing system implemented in Python. This
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/p2p-file-system.git
-   cd p2p-file-system
+   [git clone https://github.com/your_username/p2p-file-system.git](https://github.com/myotheinchit/Distributed-File-System.git)
+   
